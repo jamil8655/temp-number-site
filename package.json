@@ -1,0 +1,1 @@
+{"dependencies":{"express":"^4.19.2"},"description":"Temporary SMS number website — public inboxes for virtual numbers (Twilio-style webhook).","main":"server.js","name":"temp-number-site","optionalDependencies":{"better-sqlite3":"^11.3.0"},"scripts":{"simulate":"node simulate.js","start":"node server.js"},"type":"commonjs","version":"1.0.0"}
